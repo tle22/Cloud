@@ -1,0 +1,15 @@
+{
+    "name": "tle/cloud",
+    "autoload": {
+        "psr-4": {
+            "Tle\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sirapat",
+            "email": "sirapat.khong@vru.ac.th"
+        }
+    ],
+    "require": {}
+}
